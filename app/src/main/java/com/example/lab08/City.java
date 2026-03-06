@@ -4,6 +4,11 @@ public class City {
     private String city;
     private String province;
 
+    /**
+     *
+     * @param city
+     * @param province
+     */
     public City(String city, String province){
         this.city = city;
         this.province = province;
